@@ -1,7 +1,9 @@
 package if_Switch_Ternary_StringMethods;
 
-import java.util.*;
-class Main {
+import java.util.Scanner;
+
+public class C01 {
+
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
